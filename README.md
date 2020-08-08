@@ -8,7 +8,7 @@ Type definitions and low level interface implementations for the [W3C HTML5 API]
 ## Installation
 
 ```
-bower install purescript-web-html
+spago install web-html
 ```
 
 ## Documentation
